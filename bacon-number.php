@@ -10,9 +10,9 @@
 // curl 'http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Miley%20Cyrus&prop=revisions&rvprop=content'
 
 
-// See if the target has a page. Fail if they don't.
+// See if the start has a page. Fail if they don't.
 
-// Grab the target's page.
+// Grab the start's page.
 
 
 
